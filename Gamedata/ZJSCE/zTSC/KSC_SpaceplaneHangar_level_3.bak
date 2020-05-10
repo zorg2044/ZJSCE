@@ -5,19 +5,19 @@ STATIC
 	pointername = KSC_SpaceplaneHangar_level_3
 	Instances
 	{
-		UUID = 6a547c8a-ae41-4564-9bbc-b091c2c12e06
+		UUID = 19eb4f32-7e37-4a70-aa1a-ec3d3a4f2b91
 		CelestialBody = Kerbin
-		RelativePosition = -778.710754,-29.179739,1470.01526
-		Orientation = -9.99999975E-05,162.5,4.88533216E-12
+		RelativePosition = -798.110657,-29.5797405,1470.51343
+		Orientation = -9.99999975E-05,162.5,1.62844402E-12
 		isScanable = False
 		ModelScale = 1
 		VisibilityRange = 25000
-		Group = CMCA_TSC
-		GrasColor = 0.329167008,0.400000006,0.319999993,1
+		Group = zKSC
+		GrasColor = 0,0,0,0
 		Facility
 		{
 			FacilityType = Hangar
-			FacilityMassCapacity = 1200
+			FacilityMassCapacity = 0
 			FacilityCraftCapacity = 3
 			OpenCost = 1457126
 			CloseValue = 364281
@@ -28,7 +28,7 @@ STATIC
 		{
 			GrassMeshName = model_sph_exterior_ground_v46n
 			MaterialOffset = 0
-			GrassColor = 0.35,0.4,0.32,1
+			GrassColor = 0.298,0.3315,0.2665,0
 			NearGrassTexture = BUILTIN:/terrain_grass00_new
 			NearGrassTiling = 0.25
 			NearGrassGrayScale = False
